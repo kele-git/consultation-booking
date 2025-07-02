@@ -1,21 +1,23 @@
-<<<<<<< HEAD
 # tpg_assignment
 
-A new Flutter project.
+## Student Consultation Booking App
 
-## Getting Started
+This application is designed to simplify the process of booking consultations between students and lecturers at our institution. Built using Flutter and powered by Firebase, it allows students to formally schedule meetings by selecting the purpose of the consultation, choosing a convenient date and time, and selecting a preferred lecturer within the faculty. Whether students need to discuss academic marks, syllabus concerns, or other issues, this app provides a streamlined and user-friendly platform to facilitate effective communication and scheduling.
 
-This project is a starting point for a Flutter application.
+Firebase is used for backend services including real-time database, authentication, and cloud storage, ensuring secure and efficient data management throughout the app.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Student registration and login with Firebase Authentication
+- Browse and select lecturers within the faculty
+- Book consultations by selecting date, time, and meeting purpose
+- View booked consultations and their details
+- Secure storage and retrieval of booking data via Firebase Firestore
+- Real-time updates for consultation availability and booking status
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# consultation-booking
-Flutter based booking system for student consultations with firebase integration
->>>>>>> 23b31aa8cf18019abec810a270e22458d4d8568a
+## Technologies Used
+
+- Flutter (Dart) — for cross-platform mobile app development  
+- Firebase Authentication — for secure user login and registration  
+- Firebase Firestore — for real-time database management  
+- Firebase Cloud Storage — for storing any media or documents (if applicable)
