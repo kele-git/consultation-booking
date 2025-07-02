@@ -6,6 +6,11 @@ This application is designed to simplify the process of booking consultations be
 
 Firebase is used for backend services including real-time database, authentication, and cloud storage, ensuring secure and efficient data management throughout the app.
 
+## 📽 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/g_5RccGaXgk/maxresdefault.jpg)](https://youtu.be/g_5RccGaXgk)
+
+
 ## Features
 
 - Student registration and login with Firebase Authentication
